@@ -1,5 +1,13 @@
 
 
+# The demo builder has moved to the ThoughtSpot Github!!
+## For the latest version please use:
+
+https://github.com/thoughtspot/TSE-Demo-Builder
+
+
+
+
 ## TSE Demo Builder
 
 This application is designed to enable quick TSE demos that mimic a client environment. 
