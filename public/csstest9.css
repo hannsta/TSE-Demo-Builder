@@ -27,6 +27,7 @@
 
 body, .bk-pinboard-page-content{
   background: #ffffff !important;
+  font-family:
 }
   
 .bk-base-pinboard-data-viz{
@@ -36,6 +37,5 @@ body, .bk-pinboard-page-content{
 .ribbon-item, .modal-header,.bk-dialog-container {
   border: 0px solid #aaaaaa;
   border-radius: 5px;
-  background-color: #ffffff !important;
-  
+  background-color: transparent !important;
 }
