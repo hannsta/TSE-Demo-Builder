@@ -1,0 +1,25 @@
+.rd-button-size-m.rd-button-with-icon.rd-button-with-text{
+  border-radius: 2px !important;
+  background-color: #bf93bd !important;
+}
+.rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
+  border-radius: 2px !important;
+  background-color: #bf93bd !important;
+}
+
+.rd-button-background-light{
+  border-radius: 2px !important;
+  background-color: #bf93bd !important;
+}
+.rd-botton{
+  border-radius: 2px !important; 
+}
+.ngdialog-overlay, .ngdialog{
+  background-color: transparent !important; 
+}
+.rd-button-primary{
+  background-color: #bf93bd !important;
+}
+.input-box{
+  height:35px !important;
+}
