@@ -33,8 +33,9 @@ body, .bk-pinboard-page-content{
   border: 1px solid #aaaaaa;
   border-radius: 5px;
 }
-.ribbon-item, .modal-header {
-  border: 1px solid #aaaaaa;
+.ribbon-item, .modal-header,.bk-dialog-container {
+  border: 0px solid #aaaaaa;
   border-radius: 5px;
-  background: #ffffff;
+  background-color: #ffffff !important;
+  
 }
