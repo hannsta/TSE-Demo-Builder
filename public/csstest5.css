@@ -1,15 +1,15 @@
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
   border-radius: 5px !important;
-  background-color: #bf93bd !important;
+  background-color: #2E1A47 !important;
 }
 .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
   border-radius: 5px !important;
-  background-color: #bf93bd !important;
+  background-color: #7c6992 !important;
 }
 
 .rd-button-background-light{
   border-radius: 10px !important;
-  background-color: #2E1A47 !important;
+  background-color: #7c6992 !important;
 }
 .rd-botton{
   border-radius: 5px !important;
@@ -19,8 +19,19 @@
 }
 .rd-button-primary{
   border-radius: 5px !important;
-  background-color: #bf93bd !important;
+  background-color: #2E1A47 !important;
 }
 .input-box{
   height:35px !important;
+}
+
+body{
+  background: #ffffff !important;
+}
+  
+.bk-base-pinboard-data-viz{
+  border: 1px solid #aaaaaa;
+}
+.ribbon-item {
+  border: 1px solid #aaaaaa;
 }
