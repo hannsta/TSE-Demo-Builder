@@ -1,7 +1,6 @@
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
   border-radius: 5px !important;
   background-color: #7c6992 !important;
-  color: #ffffff !important;
 }
 .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
   border-radius: 5px !important;
@@ -28,14 +27,14 @@
 
 body, .bk-pinboard-page-content{
   background: #ffffff !important;
-  
 }
   
 .bk-base-pinboard-data-viz{
   border: 1px solid #aaaaaa;
   border-radius: 5px;
 }
-.ribbon-item {
+.ribbon-item, .modal-header {
   border: 1px solid #aaaaaa;
   border-radius: 5px;
+  background: #ffffff;
 }
