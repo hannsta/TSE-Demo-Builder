@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
   border-radius: 5px !important;
   background-color: #7c6992 !important;
@@ -39,3 +40,4 @@ body, .bk-pinboard-page-content{
   border-radius: 5px;
   background-color: transparent !important;
 }
+
