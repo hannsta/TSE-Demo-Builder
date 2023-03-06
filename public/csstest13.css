@@ -26,7 +26,7 @@
 }
 
 body, .bk-pinboard-page-content{
-  background: #ffffff !important;
+  background: #f7f7f7 !important;
 }
   
 .bk-base-pinboard-data-viz{
@@ -39,3 +39,10 @@ body, .bk-pinboard-page-content{
   background-color: transparent !important;
 }
 
+[aria-label="Add to favorites"] svg{
+  display: none;
+}
+[aria-label="Add to favorites"]{
+  background-image: url("http://twitter.github.com/bootstrap/assets/img/glyphicons-halflings-white.png");
+;
+}
