@@ -43,6 +43,6 @@ body, .bk-pinboard-page-content{
   display: none;
 }
 [aria-label="Add to favorites"]{
-  background-image: url("http://twitter.github.com/bootstrap/assets/img/glyphicons-halflings-white.png");
+  background-image: url("http://localhost:4200/UI/assets/tru-core-icon-sprite.svg");
 ;
 }
