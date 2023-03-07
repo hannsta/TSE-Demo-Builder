@@ -1,13 +1,21 @@
 
-[aria-label="Save"],[aria-label="Go"],[aria-label="Go"], .rd-button-background-light, .rd-button-primary, .rd-button-size-m.rd-button-with-icon.rd-button-with-text, .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
+[aria-label="Save"],[aria-label="Go"],[aria-label="Close"], .rd-button-background-light, .rd-button-primary, .rd-button-size-m.rd-button-with-icon.rd-button-with-text, .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
   border-radius: 5px !important;
   background-color: #7c6992 !important;
   height:50px !important;
   color: #ffffff !important;
   min-width:50px !important;
+  font-size: 16px;
+  font-weight: 600;
 }
 .rd-botton{
   border-radius: 5px !important;
+}
+.bk-pinboard-ribbon-switch{
+  width: calc(100% - 300px) !important;
+}
+.bk-subscribe-pb-btn{
+  margin-right: 13px !important;
 }
 .ngdialog-overlay, .ngdialog{
   background-color: transparent !important; 
@@ -35,5 +43,4 @@ body, .bk-pinboard-page-content{
 }
 [aria-label="Add to favorites"]{
   background-image: url("http://localhost:4200/UI/assets/tru-core-icon-sprite.svg");
-;
 }
