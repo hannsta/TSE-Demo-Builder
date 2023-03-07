@@ -1,15 +1,18 @@
 .rd-button-size-m.rd-button-with-icon.rd-button-with-text{
   border-radius: 5px !important;
+  height:50px !important;
   background-color: #7c6992 !important;
 }
 .rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text){
   border-radius: 5px !important;
-  background-color: #c3defef !important;
+  background-color: #7c6992 !important;
+  height:50px !important;
 }
 
 .rd-button-background-light{
   border-radius: 10px !important;
-  background-color: #c3defef !important;
+  background-color: #7c6992 !important;
+  height:50px !important;
 }
 .rd-botton{
   border-radius: 5px !important;
@@ -19,10 +22,11 @@
 }
 .rd-button-primary{
   border-radius: 5px !important;
-  background-color: #c3defef !important;
+  background-color: #7c6992 !important;
+  height:50px !important;
 }
 .input-box{
-  height:35px !important;
+  height:50px !important;
 }
 
 body, .bk-pinboard-page-content{
@@ -40,7 +44,9 @@ body, .bk-pinboard-page-content{
 
 [aria-label="Save"],[aria-label="Go"],[aria-label="Go"]{
   border-radius: 5px !important;
-  background-color: #c3defef !important;
+  background-color: #7c6992 !important;
+  height:50px !important;
+
 }
 [aria-label="Add to favorites"] svg{
   display: none;
