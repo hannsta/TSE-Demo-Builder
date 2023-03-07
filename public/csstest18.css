@@ -44,3 +44,6 @@ body, .bk-pinboard-page-content{
 [aria-label="Add to favorites"]{
   background-image: url("http://localhost:4200/UI/assets/tru-core-icon-sprite.svg");
 }
+.chart-selector-module__bkVizOptionIcon img{
+  filter: invert(46%) sepia(13%) saturate(958%) hue-rotate(225deg) brightness(91%) contrast(86%) grayscale(1);
+}
